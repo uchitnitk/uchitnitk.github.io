@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uchitnitk.github.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/uchitnitk.github.io/static/js/main.abf3e84e.chunk.js",
+    "main.js.map": "/uchitnitk.github.io/static/js/main.abf3e84e.chunk.js.map",
+    "runtime-main.js": "/uchitnitk.github.io/static/js/runtime-main.4da828b6.js",
+    "runtime-main.js.map": "/uchitnitk.github.io/static/js/runtime-main.4da828b6.js.map",
+    "static/js/2.040b3c67.chunk.js": "/uchitnitk.github.io/static/js/2.040b3c67.chunk.js",
+    "static/js/2.040b3c67.chunk.js.map": "/uchitnitk.github.io/static/js/2.040b3c67.chunk.js.map",
+    "static/js/3.247148c4.chunk.js": "/uchitnitk.github.io/static/js/3.247148c4.chunk.js",
+    "static/js/3.247148c4.chunk.js.map": "/uchitnitk.github.io/static/js/3.247148c4.chunk.js.map",
+    "index.html": "/uchitnitk.github.io/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/uchitnitk.github.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.040b3c67.chunk.js.LICENSE.txt": "/uchitnitk.github.io/static/js/2.040b3c67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da828b6.js",
+    "static/js/2.040b3c67.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.abf3e84e.chunk.js"
+  ]
+}
